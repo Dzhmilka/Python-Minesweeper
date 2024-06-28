@@ -15,3 +15,14 @@ ROWS = x
 COLS = x
 AMOUNT_MINES = x
 ```
+
+Gameplay screenshots:
+
+- Holding a tile:
+![Holding a tile](assets/test/gameplay-pressed.png)
+
+- Win:
+![Win](assets/test/gameplay-win.png)
+
+- Lose:
+![Lose](assets/test/gameplay-lose.png)
