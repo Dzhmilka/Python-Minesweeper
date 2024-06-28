@@ -16,8 +16,8 @@ BGCOLOR = LIGHTGREY
 # game settings
 TILESIZE = 30
 ROWS = 16
-COLS = 16
-AMOUNT_MINES = 30
+COLS = 30
+AMOUNT_MINES = 99
 FPS = 60
 TITLE = "Minesweeper"
 
